@@ -1,0 +1,93 @@
+body {
+    background: url(images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+    
+
+
+
+h1 {
+    color: limegreen;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h3 {
+    color: white;
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+
+
+p {
+    margin: 0;
+    color: white;
+}
+
+
+
+.contenitore {
+    background-color: rgba(0, 0, 0, 50%);
+    text-align: center;
+    border-radius: 20px;
+    width: 1000px;
+    margin: auto;
+    padding-bottom: 150px;
+    
+    
+}
+    
+    
+
+.logo {
+    width: 200px;
+    margin-top: 60px;
+    
+}
+
+.sfondo-nav {
+    background-color: limegreen;
+    border-radius: 5px;
+    background-position:  center;
+    height: 30px;
+    padding-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+.contenuto {
+    text-align: left;
+    margin-left: 10%;
+}
+
+.statoricarica {
+    height: 30px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+    
+
+.Gino22 {
+    background-color: orange;
+    width: 40%;
+    
+}
+
+.Mike24 {
+    background-color: limegreen;
+    width: 60%;
+    
+}
+
+.Fede154 {
+    background-color: red;
+    width: 20%;
+    
+}
+    
